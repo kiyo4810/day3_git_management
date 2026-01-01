@@ -1,4 +1,4 @@
-# こここそMaster branchです
+# Master branchです
 
 ## 小見出しの「はじめに」
 ## ブランチとは
